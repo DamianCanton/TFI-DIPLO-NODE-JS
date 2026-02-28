@@ -1,4 +1,4 @@
-import bcrypt from "bcrypt"
+import bcrypt from "bcryptjs"
 import ServerError from "../helper/serverError.js"
 import { buscarPorEmail, createUser } from "../repository/user.repository.js"
 import jwt from "jsonwebtoken"

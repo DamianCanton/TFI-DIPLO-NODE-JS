@@ -30,3 +30,5 @@ app.listen(
         console.log(`Servidor escuchando en el puerto ${ENVIRONMENT.PORT}`)
     }
 )
+
+export default app
