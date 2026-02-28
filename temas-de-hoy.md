@@ -1,0 +1,3 @@
+- Sesiones con JWT y auth
+- Deploy de la API
+- Revision de consigna
